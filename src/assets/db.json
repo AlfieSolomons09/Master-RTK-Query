@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "Some random posts",
+      "userId": 23,
+      "id": 1
+    },
+    {
+      "title": "Post5",
+      "body": "Some random post",
+      "userId": 23,
+      "id": 2
+    },
+    {
+      "id": 198.31593308617812,
+      "title": "My first post",
+      "body": "gsaggaa",
+      "userId": 736.6344170145238
+    },
+    {
+      "id": 406.69940406326657,
+      "title": "Final post",
+      "body": "this is my final post",
+      "userId": 412.0481088654597
+    },
+    {
+      "id": 248.49847790150847,
+      "title": "post final post",
+      "body": "123",
+      "userId": 833.1446161175764
+    }
+  ]
+}
